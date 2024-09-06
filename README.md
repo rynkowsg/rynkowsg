@@ -2,6 +2,13 @@
 
 ![](https://github-rynkowsg.goatcounter.com/count?p=/rynkowsg)
 
+_The easy path leads to complexity; simplicity is hard-earned._
+
+```
+Easy => Complex
+Hard <= Simple
+```
+
 <!--
 **rynkowsg/rynkowsg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
