@@ -1,6 +1,7 @@
-### Hi there 👋
+### Greg Rynkowski
 
 ![](https://github-rynkowsg.goatcounter.com/count?p=/rynkowsg)
+[![Greg Rynkowski profile views](https://u8views.com/api/v1/github/profiles/5878299/views/day-week-month-total-count.svg)](https://u8views.com/github/rynkowsg)
 
 _The easy path leads to complexity; simplicity is hard-earned._
 
